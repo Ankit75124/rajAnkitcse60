@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//devil07625.github.io/rajAnkitcse60/static/css/main.b7184b2e.chunk.css",
+    "main.js": "/http//devil07625.github.io/rajAnkitcse60/static/js/main.8d029744.chunk.js",
+    "main.js.map": "/http//devil07625.github.io/rajAnkitcse60/static/js/main.8d029744.chunk.js.map",
+    "runtime-main.js": "/http//devil07625.github.io/rajAnkitcse60/static/js/runtime-main.97d9ca61.js",
+    "runtime-main.js.map": "/http//devil07625.github.io/rajAnkitcse60/static/js/runtime-main.97d9ca61.js.map",
+    "static/js/2.7aeffb59.chunk.js": "/http//devil07625.github.io/rajAnkitcse60/static/js/2.7aeffb59.chunk.js",
+    "static/js/2.7aeffb59.chunk.js.map": "/http//devil07625.github.io/rajAnkitcse60/static/js/2.7aeffb59.chunk.js.map",
+    "static/js/3.40edc3eb.chunk.js": "/http//devil07625.github.io/rajAnkitcse60/static/js/3.40edc3eb.chunk.js",
+    "static/js/3.40edc3eb.chunk.js.map": "/http//devil07625.github.io/rajAnkitcse60/static/js/3.40edc3eb.chunk.js.map",
+    "index.html": "/http//devil07625.github.io/rajAnkitcse60/index.html",
+    "static/css/main.b7184b2e.chunk.css.map": "/http//devil07625.github.io/rajAnkitcse60/static/css/main.b7184b2e.chunk.css.map",
+    "static/js/2.7aeffb59.chunk.js.LICENSE.txt": "/http//devil07625.github.io/rajAnkitcse60/static/js/2.7aeffb59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97d9ca61.js",
+    "static/js/2.7aeffb59.chunk.js",
+    "static/css/main.b7184b2e.chunk.css",
+    "static/js/main.8d029744.chunk.js"
+  ]
+}
